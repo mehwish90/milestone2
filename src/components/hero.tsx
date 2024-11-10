@@ -3,7 +3,7 @@
 import Image from 'next/image';
 import React from 'react'
 import pic from '../../public/hero.jpeg';
-import '../app/Hero.css';
+import '../app/styles/hero.css';
 import Typewriter from 'typewriter-effect';
 const Hero = () => {
   return (
