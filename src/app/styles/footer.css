@@ -1,0 +1,11 @@
+/* Footer styling */
+.footer {
+  background-color: blue; /* Blue background */
+  color: #ffffff; /* White text for better contrast */
+  font-size: 0.875rem; /* Small text */
+  text-align: center; /* Center-align text */
+  padding: 1rem 0; /* Vertical padding */
+  border-top: 1px solid #1e40af; /* Darker blue top border */
+  height: 40px;
+}
+

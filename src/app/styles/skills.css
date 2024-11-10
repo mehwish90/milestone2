@@ -1,0 +1,38 @@
+.skillsContainer {
+  background-color: #f3f4f6;
+  border-radius: 8px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  max-width: 1400px;
+  margin: 0 auto;
+  text-align: center;
+  height: 200px;
+}
+
+.skillsHeading {
+  font-size: 50px;
+  color:black;
+  margin-bottom: 100px;
+  font-style: bold;
+  margin-top: 20px
+}
+
+.skillsList {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 200px;
+  justify-content: center;
+  
+}
+
+.skillsList li {
+  background-color: blue;
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-size: 16px;
+  color: #fff;
+  
+}
+
